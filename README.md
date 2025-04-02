@@ -9,7 +9,7 @@ Esta guía describe los pasos para configurar un entorno Moodle, gestionar usuar
 3. Cambia el correo electrónico y la contraseña.
 4. Sube un avatar.
 
-<img src="1a.jpg" alt="1a">
+<img src="1a.png" alt="1a">
 
 ### b) Configuración del Sitio
 1. Ve a **Administración del sitio > Primera plana > Parámetros**.
