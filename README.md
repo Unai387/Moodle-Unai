@@ -9,35 +9,35 @@ Esta guía describe los pasos para configurar un entorno Moodle, gestionar usuar
 3. Cambia el correo electrónico y la contraseña.
 4. Sube un avatar.
 
-<img src="1a.png" width="500" height="500">
+<img src="1a.png" width="300" height="300">
 
-<img src="1aa.png" width="500" height="500">
+<img src="1aa.png" width="300" height="300">
 
 ### b) Configuración del Sitio
 1. Ve a **Administración del sitio > Primera plana > Parámetros**.
 2. Cambia el nombre del sitio (largo y corto).
 3. Configura la visibilidad para usuarios no autenticados.
 
-<img src="1b.png" width="500" height="500">
+<img src="1b.png" width="300" height="300">
 
 ### c) Configuración de Zona Horaria
 1. Accede a **Administración del sitio > Ubicación > Parámetros**.
 2. Selecciona la zona horaria correcta.
 
-<img src="1c.png" width="500" height="500">
+<img src="1c.png" width="300" height="300">
 
 ### d) Configuración de Idioma
 1. Ve a **Administración del sitio > Idioma > Parámetros**.
 2. Ajusta el idioma predeterminado y activa la detección automática.
 3. Para nuevos idiomas, instala paquetes en **Idioma > Paquetes de idioma**.
 
-<img src="idioma.png" width="500" height="500">
+<img src="idioma.png" width="300" height="300">
 
 ### e) Política de Contraseñas
 1. Ve a **Administración del sitio > Seguridad > Normativas del sitio**.
 2. Ajusta la política para exigir mínimo 4 caracteres, incluyendo mayúsculas, minúsculas y números.
 
-<img src="contraseñas.png" width="500" height="500">
+<img src="contraseñas.png" width="300" height="300">
 
 ## 2. Creación de Cursos
 1. Accede a **Administración del sitio > Gestiona cursos y categorías**.
@@ -45,9 +45,9 @@ Esta guía describe los pasos para configurar un entorno Moodle, gestionar usuar
    - Curso **A** con 3 temas.
    - Curso **B** con 5 temas.
 
-<img src="2a.png" width="500" height="500">
+<img src="2a.png" width="300" height="300">
 
-<img src="2b.png" width="500" height="500">
+<img src="2b.png" width="300" height="300">
 
 ## 3. Gestión de Contenidos
 1. Accede a uno de los cursos creados.
