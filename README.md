@@ -1,7 +1,5 @@
 # Guía de configuración de Moodle
 
-Esta guía describe los pasos para configurar un entorno Moodle, gestionar usuarios y cursos, personalizar la apariencia y aplicar medidas de seguridad.
-
 ## 1. Configuración Inicial
 ### a) Modificación de Perfil
 1. Inicia sesión como administrador.
