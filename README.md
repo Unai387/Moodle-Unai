@@ -85,9 +85,13 @@
 1. En el curso **A**, permite solo acceso de visitante
 2. En el curso **B**, habilita la inscripción manual
 
+<img src="5a.png" width="300" height="300">
+
 ### b) Asignar usuarios
 1. Asigna a Bob como profesor del curso B
 2. Matricula a los alumnos creados en el curso B
+
+<img src="5b.png" width="300" height="300">
 
 ### c) Verificación de accesibilidad
 1. Confirma que el curso **A** es público
