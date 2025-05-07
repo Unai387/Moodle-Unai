@@ -58,6 +58,8 @@
 1. Ve a **Administración del sitio > Usarios > Cuentas > Agregar un usuario**
 2. Crea el usuario **Bob** con autenticación manual
 
+<img src="4a.png" width="300" height="300">
+
 ### b) Creación de alumnos
 1. Accede a **Administración del sitio > Usarios > Cuentas > Cargar usuarios**
 2. Sube un archivo CSV con 10 alumnos
@@ -65,6 +67,12 @@
 ### c) Eliminación de usuarios
 1. Accede a **Administración del sitio > Usarios > Acciones con usuarios en bloque**
 2. Elimina dos de los alumnos creados
+
+<img src="4b.png" width="300" height="300">
+
+<img src="4bb.png" width="300" height="300">
+
+<img src="4bbb.png" width="300" height="300">
 
 ## 5. Matriculación de usuarios
 ### a) Configurar métodos de inscripción
