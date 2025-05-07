@@ -53,6 +53,7 @@
 3. Agrega un archivo PDF
 4. Modifica títulos y experimenta con opciones de edición
 
+<img src="3.png" width="300" height="300">
 
 ## 4. Creación y gestión de usuarios
 ### a) Crear Usuario Manualmente
@@ -65,15 +66,15 @@
 1. Accede a **Administración del sitio > Usarios > Cuentas > Cargar usuarios**
 2. Sube un archivo CSV con 10 alumnos
 
-### c) Eliminación de usuarios
-1. Accede a **Administración del sitio > Usarios > Acciones con usuarios en bloque**
-2. Elimina dos de los alumnos creados
-
 <img src="4b.png" width="300" height="300">
 
 <img src="4bb.png" width="300" height="300">
 
 <img src="4bbb.png" width="300" height="300">
+
+### c) Eliminación de usuarios
+1. Accede a **Administración del sitio > Usarios > Acciones con usuarios en bloque**
+2. Elimina dos de los alumnos creados
 
 ## 5. Matriculación de usuarios
 ### a) Configurar métodos de inscripción
