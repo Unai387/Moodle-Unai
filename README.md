@@ -100,12 +100,16 @@
 <img src="matriculacionB.png" width="500" height="500">
 
 ### c) Verificación de accesibilidad
-1. Confirma que el curso **A** es público
+1. Confirma que el curso **A** es público    Principal
+
+
 2. Confirma que el curso **B** requiere autenticación
 
 ## 6. Personalización del Moodle
 1. Descarga e instala un tema desde **Administración del sitio > Connectors > Instalar complemento**
-2. Cambia la cabecera y el pie de página en **Administración del sitio > Apariencia > Temas > Selector de temas**
+  1.1. Arrastras el .zip y haces clic en **Instalar complemento desde archivo ZIP**
+   
+3. Cambia la cabecera y el pie de página en **Administración del sitio > Apariencia > Temas > Selector de temas**
 
 <img src="6.png" width="500" height="500">
 
@@ -114,7 +118,7 @@
 <img src="fondomoodle.png" width="500" height="500">
 
 ## 7. Seguridad
-1. Bloquea una IP en **Administración del sitio > Seguridad**
+1. Bloquea una IP en **Administración del sitio > Seguridad > Bloqueador de IP**
 2. Aplica una política de seguridad y justifica su implementación
 
 <img src="IP1.png" width="500" height="500">
