@@ -107,18 +107,18 @@
 1. Descarga e instala un tema desde **Administración del sitio > Connectors > Instalar complemento**
 2. Cambia la cabecera y el pie de página en **Administración del sitio > Apariencia > Temas > Selector de temas**
 
-<img src="6.png" width="300" height="300">
+<img src="6.png" width="500" height="500">
 
-<img src="fondomoodleadmin.png" width="300" height="300">
+<img src="fondomoodleadmin.png" width="500" height="500">
 
-<img src="fondomoodle.png" width="300" height="300">
+<img src="fondomoodle.png" width="500" height="500">
 
 ## 7. Seguridad
 1. Bloquea una IP en **Administración del sitio > Seguridad**
 2. Aplica una política de seguridad y justifica su implementación
 
-<img src="IP1.png" width="300" height="300">
+<img src="IP1.png" width="500" height="500">
 
-<img src="IP2.png" width="300" height="300">
+<img src="IP2.png" width="500" height="500">
 
-<img src="IP3.png" width="300" height="300">
+<img src="IP3.png" width="500" height="500">
