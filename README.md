@@ -89,7 +89,7 @@
 
 <img src="matriculacionA.png" width="300" height="300">
 
-<img src="matriculacionAA" width="300" height="300">
+<img src="matriculacionAA.png" width="300" height="300">
 
 ### b) Asignar usuarios
 1. Asigna a Bob como profesor del curso B
