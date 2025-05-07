@@ -102,8 +102,11 @@
 ### c) Verificación de accesibilidad
 1. Confirma que el curso **A** es público    Principal
 
+<img src="cursoA.png" width="500" height="500">
 
 2. Confirma que el curso **B** requiere autenticación
+
+<img src="cursoB.png" width="500" height="500">
 
 ## 6. Personalización del Moodle
 1. Descarga e instala un tema desde **Administración del sitio > Connectors > Instalar complemento**
