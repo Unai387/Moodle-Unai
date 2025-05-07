@@ -116,3 +116,9 @@
 ## 7. Seguridad
 1. Bloquea una IP en **Administración del sitio > Seguridad**
 2. Aplica una política de seguridad y justifica su implementación
+
+<img src="IP1.png" width="300" height="300">
+
+<img src="IP2.png" width="300" height="300">
+
+<img src="IP3.png" width="300" height="300">
