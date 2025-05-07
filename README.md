@@ -53,6 +53,7 @@
 3. Agrega un archivo PDF
 4. Modifica títulos y experimenta con opciones de edición
 
+
 ## 4. Creación y gestión de usuarios
 ### a) Crear Usuario Manualmente
 1. Ve a **Administración del sitio > Usarios > Cuentas > Agregar un usuario**
