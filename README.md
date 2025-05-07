@@ -76,6 +76,10 @@
 1. Accede a **Administración del sitio > Usarios > Acciones con usuarios en bloque**
 2. Elimina dos de los alumnos creados
 
+<img src="4c.png" width="300" height="300">
+
+<img src="4cc.png" width="300" height="300">
+
 ## 5. Matriculación de usuarios
 ### a) Configurar métodos de inscripción
 1. En el curso **A**, permite solo acceso de visitante
