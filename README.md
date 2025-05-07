@@ -91,7 +91,7 @@
 1. Asigna a Bob como profesor del curso B
 2. Matricula a los alumnos creados en el curso B
 
-<img src="5bB.png" width="300" height="300">
+<img src="5aB.png" width="300" height="300">
 
 ### c) Verificación de accesibilidad
 1. Confirma que el curso **A** es público
